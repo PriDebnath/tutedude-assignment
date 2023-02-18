@@ -1,6 +1,4 @@
-## Netlify hosted link
-
-### https://tutedudeuibypri.netlify.app/
+#### Hosted link - https://tutedudeuibypri.netlify.app/
 
 
 
